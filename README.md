@@ -78,7 +78,7 @@ This tool is intended for educational purposes only. Do not use it on networks o
 
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [LICENSE](https://github.com/Udit2073/Port-Scanner/blob/main/LICENSE).
   
 
 
